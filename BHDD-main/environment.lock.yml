@@ -1,4 +1,4 @@
-name: LMVD-main
+name: BHDD-main
 channels:
   - pytorch
   - nvidia
