@@ -1,6 +1,6 @@
 # BHDD-main
 
-Official public code release for **BHDD**, a multimodal depression detection framework.
+This repository provides a placeholder structure for **BHDD**, a multimodal depression detection framework. **The official code will be publicly released upon paper acceptance/publication**.
 
 This repository contains two cleaned training pipelines:
 
