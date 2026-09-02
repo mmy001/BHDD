@@ -1,0 +1,14 @@
+name: BHDD-main
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - pytorch
+  - pytorch-cuda=11.7
